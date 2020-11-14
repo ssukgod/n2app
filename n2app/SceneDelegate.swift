@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  n2app
+//  n1app
 //
-//  Created by sky on 2020/11/14.
+//  Created by sky on 2020/07/25.
 //  Copyright © 2020 sky. All rights reserved.
 //
 
