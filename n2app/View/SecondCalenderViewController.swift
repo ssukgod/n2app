@@ -30,9 +30,11 @@ class SecondCalendarViewController: UIViewController {
             print("status is not .notDetermined")
         }
         
+        if status == .authorized {
+            
         let defaultCalender = eventStore.accessDefaultCalender()
         
-        
+        }
         
         contentScrollView.delegate = self
         
